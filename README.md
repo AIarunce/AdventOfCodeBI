@@ -1,2 +1,2 @@
 # AdventOfCodeBI
-Repo to gather ADventofCode for BI team
+Repo to gather AdventofCode for BI team
